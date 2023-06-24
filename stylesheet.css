@@ -1,0 +1,112 @@
+
+  
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .body {
+    margin: 50px;
+    padding: 10px;
+  }
+  
+
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+  }
+  
+  
+  .logo {
+    margin-right: 20px;
+  }
+  
+  
+  .logo-link {
+    text-decoration: none;
+  }
+  
+  
+  .logo-image {
+    width: 50px;
+    height: 50px;
+  }
+  
+
+  .company-name {
+    color: white;
+    font-weight: bold;
+    margin-right: 900px;
+  }
+  
+  
+  .nav-links {
+    list-style-type: none;
+    display: flex;
+  }
+  
+
+  .nav-links li {
+    margin-right: 10px;
+  }
+  
+  
+  .nav-links a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+  }
+  
+ 
+  .navbar-links a:hover {
+    background-color: #111;
+  }
+  
+ 
+  .sections {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(107, 174, 130);
+    text-align: center;
+  }
+  
+  
+  .picture1 {
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+  }
+  
+  
+  .picture2 {
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+  }
+  
+
+  .picture3 {
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+  }
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    text-align: justify;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+  }
